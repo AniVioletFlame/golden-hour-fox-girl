@@ -1,0 +1,6 @@
+fragment.html
+*.png
+!preview.png
+node_modules/
+__pycache__/
+index.html
